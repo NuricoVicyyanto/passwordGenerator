@@ -22,5 +22,5 @@ temp_password = random.sample(create_password, length)
 # create password
 password = ''.join(temp_password)
 
-#print password
+# print password
 print("Your password is: " + password)
